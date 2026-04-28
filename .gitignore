@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data outputs
+*.csv
+serial_time.txt
+
+# Build artifacts and executables
+*.o
+*.out
+*.exe
+mandelbrot*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+*~
+
+# Logs
+*.log
